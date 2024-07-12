@@ -1,5 +1,5 @@
 # Display name of this package
-name = "fx-chunk-data"
+name = "Copy/Paste chunk data from last-focused FX"
 
 # The category of this package, used by Reapack for classification.
 # (This has no effect on the output path of your repository / packages)
