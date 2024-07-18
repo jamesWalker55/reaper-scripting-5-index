@@ -1,0 +1,88 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<index version="1" name="jamesWalker55 Scripts">
+	<metadata>
+		<description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Index repository for reaper-scripting-5\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 ReaPack repository URL: https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/main-index/index.xml\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is just a repository for storing packages and versions.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Actual source code: https://github.com/jamesWalker55/reaper-scripting-5\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaPack index generated with: https://github.com/jamesWalker55/reapack-indexer-4\sa180\par}
+}
+]]></description>
+	</metadata>
+	<category name="FX">
+		<reapack desc="Copy/Paste chunk data from last-focused FX" type="script" name="fx-chunk-data">
+			<version name="0.0.2" author="James Walker" time="2024-07-15T15:40:12.157362+00:00">
+				<source file="../fx-chunk-data/0.0.2/Copy chunk data from last-focused FX.lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/Copy%20chunk%20data%20from%20last-focused%20FX.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lualib_bundle.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lualib_bundle.lua</source>
+				<source file="../fx-chunk-data/0.0.2/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/index.lua</source>
+				<source file="../fx-chunk-data/0.0.2/Paste chunk data to last-focused FX.lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/Paste%20chunk%20data%20to%20last-focused%20FX.lua</source>
+				<source file="../fx-chunk-data/0.0.2/version.toml">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/version.toml</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-api/utils.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-api/utils.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-api/base64.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-api/base64.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-api/arrchunk.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-api/arrchunk.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-api/chunk.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-api/chunk.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-api/clipboard.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-api/clipboard.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-api/fx.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-api/fx.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/ui.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/ui.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/index.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/hash.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/hash.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/deepcopy.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/deepcopy.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/log.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/build/log.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/node_modules/reaper-api/ffi/enums.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/node_modules/reaper-api/ffi/enums.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/node_modules/reaper-api/ffi/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/node_modules/reaper-api/ffi/index.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/reaper-microui/node_modules/json/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/reaper-microui/node_modules/json/index.lua</source>
+				<source file="../fx-chunk-data/0.0.2/lua_modules/json/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.2/lua_modules/json/index.lua</source>
+			</version>
+			<version name="0.0.1" author="James Walker" time="2024-07-12T10:40:48.654516+00:00">
+				<source file="../fx-chunk-data/0.0.1/Copy chunk data from last-focused FX.lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/Copy%20chunk%20data%20from%20last-focused%20FX.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lualib_bundle.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lualib_bundle.lua</source>
+				<source file="../fx-chunk-data/0.0.1/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/index.lua</source>
+				<source file="../fx-chunk-data/0.0.1/Paste chunk data to last-focused FX.lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/Paste%20chunk%20data%20to%20last-focused%20FX.lua</source>
+				<source file="../fx-chunk-data/0.0.1/version.toml">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/version.toml</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-api/utils.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-api/utils.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-api/base64.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-api/base64.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-api/arrchunk.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-api/arrchunk.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-api/chunk.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-api/chunk.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-api/clipboard.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-api/clipboard.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-api/fx.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-api/fx.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/ui.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/ui.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/json.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/json.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/index.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/hash.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/hash.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/deepcopy.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/deepcopy.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/log.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/build/log.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/node_modules/reaper-api/ffi/enums.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/node_modules/reaper-api/ffi/enums.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/reaper-microui/node_modules/reaper-api/ffi/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/reaper-microui/node_modules/reaper-api/ffi/index.lua</source>
+				<source file="../fx-chunk-data/0.0.1/lua_modules/json/index.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/fx-chunk-data/0.0.1/lua_modules/json/index.lua</source>
+			</version>
+		</reapack>
+	</category>
+	<category name="Track">
+		<reapack desc="Select tracks by routing" type="script" name="select-track-by-routing">
+			<version name="0.0.1" author="James Walker" time="2024-07-18T04:19:55.494372600+00:00">
+				<source file="../select-track-by-routing/0.0.1/Routing - Select sends from the selected track (Audio only).lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20sends%20from%20the%20selected%20track%20%28Audio%20only%29.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select leaf tracks (Audio only).lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20leaf%20tracks%20%28Audio%20only%29.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select dead-end tracks.lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20dead-end%20tracks.lua</source>
+				<source file="../select-track-by-routing/0.0.1/lualib_bundle.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lualib_bundle.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select leaf tracks (Midi only).lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20leaf%20tracks%20%28Midi%20only%29.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select dead-end tracks (Midi only).lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20dead-end%20tracks%20%28Midi%20only%29.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select leaf tracks.lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20leaf%20tracks.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select sends from the selected track.lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20sends%20from%20the%20selected%20track.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select sends from the selected track (Midi only).lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20sends%20from%20the%20selected%20track%20%28Midi%20only%29.lua</source>
+				<source file="../select-track-by-routing/0.0.1/version.toml">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/version.toml</source>
+				<source file="../select-track-by-routing/0.0.1/lua_modules/reaper-api/track.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lua_modules/reaper-api/track.lua</source>
+				<source file="../select-track-by-routing/0.0.1/lua_modules/reaper-api/utils.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lua_modules/reaper-api/utils.lua</source>
+				<source file="../select-track-by-routing/0.0.1/lua_modules/reaper-api/base64.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lua_modules/reaper-api/base64.lua</source>
+				<source file="../select-track-by-routing/0.0.1/lua_modules/reaper-api/item.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lua_modules/reaper-api/item.lua</source>
+				<source file="../select-track-by-routing/0.0.1/lua_modules/reaper-api/arrchunk.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lua_modules/reaper-api/arrchunk.lua</source>
+				<source file="../select-track-by-routing/0.0.1/lua_modules/reaper-api/chunk.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lua_modules/reaper-api/chunk.lua</source>
+				<source file="../select-track-by-routing/0.0.1/lua_modules/reaper-api/fx.lua">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/lua_modules/reaper-api/fx.lua</source>
+				<source file="../select-track-by-routing/0.0.1/Routing - Select dead-end tracks (Audio only).lua" main="main">https://raw.githubusercontent.com/jamesWalker55/reaper-scripting-5-index/7858e55ffe3305d00ce676136caf0dff046d740f/select-track-by-routing/0.0.1/Routing%20-%20Select%20dead-end%20tracks%20%28Audio%20only%29.lua</source>
+			</version>
+		</reapack>
+	</category>
+</index>
