@@ -42,7 +42,7 @@ local function main(self)
     local LOW_THRESHOLD_MAX = 1e-9
     local HIGH_THRESHOLD_MIN = LOW_THRESHOLD_MAX
     local HIGH_THRESHOLD_MAX = 0.01
-    local thresholdLow = 2e-10
+    local thresholdLow = 4.5e-10
     local thresholdHigh = HIGH_THRESHOLD_MAX
     local thresholdInclusive = false
     local checkItemEnds = false
