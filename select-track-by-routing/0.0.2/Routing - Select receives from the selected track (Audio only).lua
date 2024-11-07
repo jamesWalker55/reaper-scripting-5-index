@@ -1,9 +1,13 @@
+-- Fix import paths
+local __script_directory = ({reaper.get_action_context()})[2]:match('^(.+[\\\\//])') .. "?.lua"
+package.path = __script_directory .. ";" .. package.path
+
 --[[ Generated with https://github.com/TypeScriptToLua/TypeScriptToLua ]]
 local ____exports = {}
 local ____track = require("lua_modules.reaper-api.track")
 local getProjectRoutingInfo = ____track.getProjectRoutingInfo
 local Track = ____track.Track
-AddCwdToImportPaths()
+
 local function main(self)
     local ____getProjectRoutingInfo_result_0 = getProjectRoutingInfo(nil, {audio = true})
     local sends = ____getProjectRoutingInfo_result_0.sends
