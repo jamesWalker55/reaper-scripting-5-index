@@ -1,0 +1,1 @@
+New script "Create a new plain-text menu" to automatically create a menu and add it to the actions list.
