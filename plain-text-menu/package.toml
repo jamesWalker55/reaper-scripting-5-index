@@ -20,7 +20,7 @@ identifier = "plain-text-menu"
 # For scripts, define the files to be added to the action list here.
 # Glob patterns are supported as well.
 [entrypoints]
-main = ["plain-text-menu.lua"]
+main = ["[A-Z]*.lua"]
 # midi_editor = []
 # midi_inlineeditor = []
 # midi_eventlisteditor = []
