@@ -1,9 +1,9 @@
 # Display name of this package
-name = "Track Name Manipulation (Copy/Paste/Trim)"
+name = "Name Manipulation (Copy/Paste/Trim)"
 
 # The category of this package, used by Reapack for classification.
 # (This has no effect on the output path of your repository / packages)
-category = "Tracks Properties"
+category = "Various"
 
 # The package type, used by Reapack for classification.
 # For available choices, see: https://github.com/cfillion/reapack/wiki/Index-Format#reapack-element
@@ -11,7 +11,7 @@ type = "script"
 
 # Optional: The name of the output folder containing this package.
 # Defaults to the actual folder name of the current package.
-identifier = "track-names-edit"
+identifier = "names-edit"
 
 # # Optional: Override the author for this package.
 # # Defaults to the repository's configured author
